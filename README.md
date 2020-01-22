@@ -1,0 +1,1 @@
+This is the newest version of the Urban Heat Island Effect predictive analysis project. In this project, I'll be using the SNURD (Summer-Night Urban-Rural Differential) as a metric to run regression models on the finalized dataset. 
