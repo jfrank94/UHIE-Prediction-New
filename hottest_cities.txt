@@ -1,0 +1,57 @@
+Albuquerque,NM 
+Columbus,OH 
+Denver,CO 
+Kansas City,MO 
+Las Vegas,NV 
+Louisville,KY 
+Minneapolis,IN 
+Portland,OR 
+Seattle,WA 
+Washington D.C.,MD 
+Albany,NY 
+Allentown,PA 
+Atlanta,GA 
+Austin,TX 
+Birmingham,AL
+Boise,ID 
+Boston,MA 
+Buffalo,NY
+Charlotte,NC 
+Chicago,IL
+Cincinnati,OH
+Cleveland,OH 
+Columbia,SC
+Dallas,TX
+Dayton,FL 
+Des Moines,IL 
+Detroit,MI 
+Grand Rapids,MI
+Hartford,CT 
+Houston,TX
+Indianapolis,IN
+Jacksonville,FL
+Knoxville,TN
+Los Angeles,CA 
+Memphis,TN 
+Miami,FL
+Milwaukee,WI 
+Nashville,TN
+New Orleans,LA 
+New York,NY 
+Norfolk,VA
+Oklahoma City,OK
+Philadelphia,PA 
+Phoenix,AZ
+Pittsburgh,PA 
+Providence,RI
+Raleigh,NC
+Richmond,VA 
+Rochester,NY 
+Sacramento,CA
+San Antonio,TX 
+San Diego,CA
+St. Louis,MI
+Syracuse,NY 
+Tampa,FL 
+Tucson,AZ 
+Tulsa,OK 
